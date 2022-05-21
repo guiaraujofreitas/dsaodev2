@@ -1,0 +1,966 @@
+2022-05-21 16:07:29 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:31 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/men/products/jeans.html HTTP/1.1" 200 None
+2022-05-21 16:07:32 - INFO - webscraping_hm - data collection done
+2022-05-21 16:07:32 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1071707001.html
+2022-05-21 16:07:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:32 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1071707001.html HTTP/1.1" 200 None
+2022-05-21 16:07:33 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1071707001.html
+2022-05-21 16:07:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:33 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1071707001.html HTTP/1.1" 200 None
+2022-05-21 16:07:33 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1071707002.html
+2022-05-21 16:07:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1071707002.html HTTP/1.1" 200 None
+2022-05-21 16:07:34 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1074475001.html
+2022-05-21 16:07:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1074475001.html HTTP/1.1" 200 None
+2022-05-21 16:07:35 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1074475001.html
+2022-05-21 16:07:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:35 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1074475001.html HTTP/1.1" 200 None
+2022-05-21 16:07:35 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:07:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:36 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:07:36 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:07:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:36 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:07:36 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159002.html
+2022-05-21 16:07:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:37 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159002.html HTTP/1.1" 200 None
+2022-05-21 16:07:38 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159003.html
+2022-05-21 16:07:38 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:39 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159003.html HTTP/1.1" 200 None
+2022-05-21 16:07:40 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:07:40 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:40 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:07:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:07:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:41 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:07:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:07:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:07:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:07:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:07:44 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:07:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:45 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:07:46 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:07:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:07:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:07:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:07:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:07:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:07:48 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:07:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:07:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:07:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:07:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:07:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:07:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:07:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:54 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:07:55 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:07:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:55 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:07:56 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:07:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:56 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:07:56 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1004199004.html
+2022-05-21 16:07:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199004.html HTTP/1.1" 200 None
+2022-05-21 16:07:58 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199004.html
+2022-05-21 16:07:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:58 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199004.html HTTP/1.1" 200 None
+2022-05-21 16:07:58 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199001.html
+2022-05-21 16:07:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:07:59 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199001.html HTTP/1.1" 200 None
+2022-05-21 16:08:00 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199002.html
+2022-05-21 16:08:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:00 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199002.html HTTP/1.1" 200 None
+2022-05-21 16:08:01 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199003.html
+2022-05-21 16:08:01 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:01 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199003.html HTTP/1.1" 200 None
+2022-05-21 16:08:02 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199005.html
+2022-05-21 16:08:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:02 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199005.html HTTP/1.1" 200 None
+2022-05-21 16:08:02 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:08:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:02 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:08:03 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:08:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:03 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:08:03 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:08:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:03 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:08:03 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:08:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:04 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:08:04 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:08:04 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:04 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:08:04 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:08:04 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:04 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:08:05 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:08:05 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:05 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:08:05 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:08:05 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:05 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:08:06 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:08:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:06 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:08:06 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:08:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:06 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:08:06 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:08:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:06 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:08:07 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:08:07 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:07 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:08:07 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159002.html
+2022-05-21 16:08:07 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:07 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159002.html HTTP/1.1" 200 None
+2022-05-21 16:08:08 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159003.html
+2022-05-21 16:08:08 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:08 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159003.html HTTP/1.1" 200 None
+2022-05-21 16:08:08 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:08:08 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:08 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:08:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:08:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:09 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:08:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:08:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:09 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:08:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:08:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:10 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:08:10 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008549006.html
+2022-05-21 16:08:10 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:10 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549006.html HTTP/1.1" 200 None
+2022-05-21 16:08:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549006.html
+2022-05-21 16:08:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:11 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549006.html HTTP/1.1" 200 None
+2022-05-21 16:08:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549001.html
+2022-05-21 16:08:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:12 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549001.html HTTP/1.1" 200 None
+2022-05-21 16:08:13 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549002.html
+2022-05-21 16:08:13 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:13 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549002.html HTTP/1.1" 200 None
+2022-05-21 16:08:14 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549003.html
+2022-05-21 16:08:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:14 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549003.html HTTP/1.1" 200 None
+2022-05-21 16:08:14 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549004.html
+2022-05-21 16:08:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:15 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549004.html HTTP/1.1" 200 None
+2022-05-21 16:08:15 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549007.html
+2022-05-21 16:08:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:16 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549007.html HTTP/1.1" 200 None
+2022-05-21 16:08:16 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549008.html
+2022-05-21 16:08:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:17 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549008.html HTTP/1.1" 200 None
+2022-05-21 16:08:18 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0690449022.html
+2022-05-21 16:08:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:18 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449022.html HTTP/1.1" 200 None
+2022-05-21 16:08:19 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449022.html
+2022-05-21 16:08:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:19 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449022.html HTTP/1.1" 200 None
+2022-05-21 16:08:19 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449001.html
+2022-05-21 16:08:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:20 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449001.html HTTP/1.1" 200 None
+2022-05-21 16:08:21 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449002.html
+2022-05-21 16:08:21 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:22 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449002.html HTTP/1.1" 200 None
+2022-05-21 16:08:23 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449006.html
+2022-05-21 16:08:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449006.html HTTP/1.1" 200 None
+2022-05-21 16:08:25 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449007.html
+2022-05-21 16:08:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:25 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449007.html HTTP/1.1" 200 None
+2022-05-21 16:08:26 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449009.html
+2022-05-21 16:08:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:27 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449009.html HTTP/1.1" 200 None
+2022-05-21 16:08:28 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449011.html
+2022-05-21 16:08:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:29 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449011.html HTTP/1.1" 200 None
+2022-05-21 16:08:30 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449013.html
+2022-05-21 16:08:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:30 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449013.html HTTP/1.1" 200 None
+2022-05-21 16:08:31 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449021.html
+2022-05-21 16:08:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:31 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449021.html HTTP/1.1" 200 None
+2022-05-21 16:08:32 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449024.html
+2022-05-21 16:08:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449024.html HTTP/1.1" 200 None
+2022-05-21 16:08:34 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449028.html
+2022-05-21 16:08:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:35 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449028.html HTTP/1.1" 200 None
+2022-05-21 16:08:36 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449035.html
+2022-05-21 16:08:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:36 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449035.html HTTP/1.1" 200 None
+2022-05-21 16:08:37 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449036.html
+2022-05-21 16:08:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:37 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449036.html HTTP/1.1" 200 None
+2022-05-21 16:08:37 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449040.html
+2022-05-21 16:08:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:38 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449040.html HTTP/1.1" 200 None
+2022-05-21 16:08:39 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449043.html
+2022-05-21 16:08:39 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:41 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449043.html HTTP/1.1" 200 None
+2022-05-21 16:08:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449046.html
+2022-05-21 16:08:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449046.html HTTP/1.1" 200 None
+2022-05-21 16:08:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449051.html
+2022-05-21 16:08:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449051.html HTTP/1.1" 200 None
+2022-05-21 16:08:44 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449056.html
+2022-05-21 16:08:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:44 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449056.html HTTP/1.1" 200 None
+2022-05-21 16:08:44 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:08:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:44 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:08:45 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:08:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:45 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:08:45 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:08:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:45 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:08:46 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:08:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:08:46 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:08:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:08:46 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:08:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:08:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:08:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:08:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:08:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:08:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:08:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:08:48 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:08:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:08:48 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:08:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:08:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:08:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:08:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159002.html
+2022-05-21 16:08:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159002.html HTTP/1.1" 200 None
+2022-05-21 16:08:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159003.html
+2022-05-21 16:08:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159003.html HTTP/1.1" 200 None
+2022-05-21 16:08:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:08:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:08:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:08:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:08:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:08:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:08:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:08:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:08:51 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0690449043.html
+2022-05-21 16:08:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449043.html HTTP/1.1" 200 None
+2022-05-21 16:08:52 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449043.html
+2022-05-21 16:08:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449043.html HTTP/1.1" 200 None
+2022-05-21 16:08:52 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449001.html
+2022-05-21 16:08:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449001.html HTTP/1.1" 200 None
+2022-05-21 16:08:52 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449002.html
+2022-05-21 16:08:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449002.html HTTP/1.1" 200 None
+2022-05-21 16:08:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449006.html
+2022-05-21 16:08:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449006.html HTTP/1.1" 200 None
+2022-05-21 16:08:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449007.html
+2022-05-21 16:08:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449007.html HTTP/1.1" 200 None
+2022-05-21 16:08:54 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449009.html
+2022-05-21 16:08:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:54 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449009.html HTTP/1.1" 200 None
+2022-05-21 16:08:54 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449011.html
+2022-05-21 16:08:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:54 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449011.html HTTP/1.1" 200 None
+2022-05-21 16:08:54 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449013.html
+2022-05-21 16:08:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:55 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449013.html HTTP/1.1" 200 None
+2022-05-21 16:08:55 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449021.html
+2022-05-21 16:08:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:55 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449021.html HTTP/1.1" 200 None
+2022-05-21 16:08:55 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449022.html
+2022-05-21 16:08:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:55 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449022.html HTTP/1.1" 200 None
+2022-05-21 16:08:56 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449024.html
+2022-05-21 16:08:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:56 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449024.html HTTP/1.1" 200 None
+2022-05-21 16:08:56 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449028.html
+2022-05-21 16:08:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:56 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449028.html HTTP/1.1" 200 None
+2022-05-21 16:08:56 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449035.html
+2022-05-21 16:08:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449035.html HTTP/1.1" 200 None
+2022-05-21 16:08:57 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449036.html
+2022-05-21 16:08:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449036.html HTTP/1.1" 200 None
+2022-05-21 16:08:57 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449040.html
+2022-05-21 16:08:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449040.html HTTP/1.1" 200 None
+2022-05-21 16:08:58 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449046.html
+2022-05-21 16:08:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:58 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449046.html HTTP/1.1" 200 None
+2022-05-21 16:08:58 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449051.html
+2022-05-21 16:08:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:58 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449051.html HTTP/1.1" 200 None
+2022-05-21 16:08:59 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449056.html
+2022-05-21 16:08:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:59 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449056.html HTTP/1.1" 200 None
+2022-05-21 16:08:59 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008110002.html
+2022-05-21 16:08:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:08:59 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110002.html HTTP/1.1" 200 None
+2022-05-21 16:09:00 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110002.html
+2022-05-21 16:09:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:00 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110002.html HTTP/1.1" 200 None
+2022-05-21 16:09:00 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110001.html
+2022-05-21 16:09:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:01 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110001.html HTTP/1.1" 200 None
+2022-05-21 16:09:02 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110003.html
+2022-05-21 16:09:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:02 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110003.html HTTP/1.1" 200 None
+2022-05-21 16:09:03 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110005.html
+2022-05-21 16:09:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:03 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110005.html HTTP/1.1" 200 None
+2022-05-21 16:09:04 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110006.html
+2022-05-21 16:09:04 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:04 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110006.html HTTP/1.1" 200 None
+2022-05-21 16:09:04 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:09:04 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:05 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:09:05 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:09:05 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:05 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:09:05 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:09:05 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:05 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:09:06 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:09:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:06 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:09:06 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:09:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:06 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:09:07 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:09:07 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:07 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:09:07 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:09:07 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:07 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:09:07 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:09:07 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:07 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:09:08 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:09:08 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:08 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:09:08 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:09:08 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:08 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:09:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:09:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:09 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:09:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:09:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:09 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:09:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159002.html
+2022-05-21 16:09:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:09 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159002.html HTTP/1.1" 200 None
+2022-05-21 16:09:10 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159003.html
+2022-05-21 16:09:10 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:10 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159003.html HTTP/1.1" 200 None
+2022-05-21 16:09:10 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:09:10 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:10 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:09:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:09:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:11 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:09:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:09:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:11 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:09:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:09:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:12 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:09:12 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:09:12 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:12 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:09:12 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:09:12 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:12 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:09:13 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:09:13 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:14 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:09:15 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:09:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:15 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:09:15 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:09:15 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:15 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:09:16 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:09:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:16 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:09:16 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:09:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:16 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:09:17 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:09:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:17 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:09:17 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:09:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:17 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:09:18 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1004199002.html
+2022-05-21 16:09:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:18 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199002.html HTTP/1.1" 200 None
+2022-05-21 16:09:18 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199002.html
+2022-05-21 16:09:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:18 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199002.html HTTP/1.1" 200 None
+2022-05-21 16:09:18 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199001.html
+2022-05-21 16:09:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:18 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199001.html HTTP/1.1" 200 None
+2022-05-21 16:09:19 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199003.html
+2022-05-21 16:09:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:19 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199003.html HTTP/1.1" 200 None
+2022-05-21 16:09:19 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199004.html
+2022-05-21 16:09:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:19 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199004.html HTTP/1.1" 200 None
+2022-05-21 16:09:20 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199005.html
+2022-05-21 16:09:20 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:20 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199005.html HTTP/1.1" 200 None
+2022-05-21 16:09:20 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0690449051.html
+2022-05-21 16:09:20 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:20 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449051.html HTTP/1.1" 200 None
+2022-05-21 16:09:20 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449051.html
+2022-05-21 16:09:20 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:20 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449051.html HTTP/1.1" 200 None
+2022-05-21 16:09:21 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449001.html
+2022-05-21 16:09:21 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:21 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449001.html HTTP/1.1" 200 None
+2022-05-21 16:09:21 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449002.html
+2022-05-21 16:09:21 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:21 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449002.html HTTP/1.1" 200 None
+2022-05-21 16:09:22 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449006.html
+2022-05-21 16:09:22 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:22 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449006.html HTTP/1.1" 200 None
+2022-05-21 16:09:22 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449007.html
+2022-05-21 16:09:22 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:22 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449007.html HTTP/1.1" 200 None
+2022-05-21 16:09:22 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449009.html
+2022-05-21 16:09:22 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:22 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449009.html HTTP/1.1" 200 None
+2022-05-21 16:09:23 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449011.html
+2022-05-21 16:09:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:23 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449011.html HTTP/1.1" 200 None
+2022-05-21 16:09:23 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449013.html
+2022-05-21 16:09:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:23 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449013.html HTTP/1.1" 200 None
+2022-05-21 16:09:24 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449021.html
+2022-05-21 16:09:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449021.html HTTP/1.1" 200 None
+2022-05-21 16:09:24 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449022.html
+2022-05-21 16:09:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449022.html HTTP/1.1" 200 None
+2022-05-21 16:09:24 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449024.html
+2022-05-21 16:09:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449024.html HTTP/1.1" 200 None
+2022-05-21 16:09:25 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449028.html
+2022-05-21 16:09:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:25 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449028.html HTTP/1.1" 200 None
+2022-05-21 16:09:25 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449035.html
+2022-05-21 16:09:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:25 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449035.html HTTP/1.1" 200 None
+2022-05-21 16:09:26 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449036.html
+2022-05-21 16:09:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:26 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449036.html HTTP/1.1" 200 None
+2022-05-21 16:09:26 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449040.html
+2022-05-21 16:09:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:26 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449040.html HTTP/1.1" 200 None
+2022-05-21 16:09:26 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449043.html
+2022-05-21 16:09:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:27 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449043.html HTTP/1.1" 200 None
+2022-05-21 16:09:27 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449046.html
+2022-05-21 16:09:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:27 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449046.html HTTP/1.1" 200 None
+2022-05-21 16:09:27 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449056.html
+2022-05-21 16:09:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:27 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449056.html HTTP/1.1" 200 None
+2022-05-21 16:09:28 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:09:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:28 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:09:28 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:09:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:28 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:09:28 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:09:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:28 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:09:29 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:09:29 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:29 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:09:29 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:09:29 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:29 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:09:30 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:09:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:30 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:09:30 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:09:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:30 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:09:30 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:09:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:30 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:09:31 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:09:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:31 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:09:31 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008549002.html
+2022-05-21 16:09:31 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:31 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549002.html HTTP/1.1" 200 None
+2022-05-21 16:09:32 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549002.html
+2022-05-21 16:09:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:32 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549002.html HTTP/1.1" 200 None
+2022-05-21 16:09:32 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549001.html
+2022-05-21 16:09:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:32 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549001.html HTTP/1.1" 200 None
+2022-05-21 16:09:32 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549003.html
+2022-05-21 16:09:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:32 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549003.html HTTP/1.1" 200 None
+2022-05-21 16:09:33 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549004.html
+2022-05-21 16:09:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:33 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549004.html HTTP/1.1" 200 None
+2022-05-21 16:09:33 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549006.html
+2022-05-21 16:09:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:33 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549006.html HTTP/1.1" 200 None
+2022-05-21 16:09:33 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549007.html
+2022-05-21 16:09:33 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549007.html HTTP/1.1" 200 None
+2022-05-21 16:09:34 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549008.html
+2022-05-21 16:09:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549008.html HTTP/1.1" 200 None
+2022-05-21 16:09:34 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008110001.html
+2022-05-21 16:09:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110001.html HTTP/1.1" 200 None
+2022-05-21 16:09:35 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110001.html
+2022-05-21 16:09:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:36 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110001.html HTTP/1.1" 200 None
+2022-05-21 16:09:37 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110002.html
+2022-05-21 16:09:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:37 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110002.html HTTP/1.1" 200 None
+2022-05-21 16:09:37 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110003.html
+2022-05-21 16:09:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:37 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110003.html HTTP/1.1" 200 None
+2022-05-21 16:09:38 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110005.html
+2022-05-21 16:09:38 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:38 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110005.html HTTP/1.1" 200 None
+2022-05-21 16:09:38 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008110006.html
+2022-05-21 16:09:38 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:38 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008110006.html HTTP/1.1" 200 None
+2022-05-21 16:09:39 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:09:39 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:39 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:09:39 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:09:39 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:39 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:09:39 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:09:39 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:39 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:09:40 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159002.html
+2022-05-21 16:09:40 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:40 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159002.html HTTP/1.1" 200 None
+2022-05-21 16:09:40 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159003.html
+2022-05-21 16:09:40 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:40 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159003.html HTTP/1.1" 200 None
+2022-05-21 16:09:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:09:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:41 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:09:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:09:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:41 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:09:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:09:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:41 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:09:42 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:09:42 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:09:42 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:09:42 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:09:42 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256004.html
+2022-05-21 16:09:42 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256004.html HTTP/1.1" 200 None
+2022-05-21 16:09:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256001.html
+2022-05-21 16:09:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256001.html HTTP/1.1" 200 None
+2022-05-21 16:09:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256002.html
+2022-05-21 16:09:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256002.html HTTP/1.1" 200 None
+2022-05-21 16:09:44 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256003.html
+2022-05-21 16:09:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:44 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256003.html HTTP/1.1" 200 None
+2022-05-21 16:09:44 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256005.html
+2022-05-21 16:09:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:44 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256005.html HTTP/1.1" 200 None
+2022-05-21 16:09:44 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256006.html
+2022-05-21 16:09:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:44 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256006.html HTTP/1.1" 200 None
+2022-05-21 16:09:45 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256007.html
+2022-05-21 16:09:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:45 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256007.html HTTP/1.1" 200 None
+2022-05-21 16:09:45 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1024256008.html
+2022-05-21 16:09:45 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:45 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1024256008.html HTTP/1.1" 200 None
+2022-05-21 16:09:46 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1004199001.html
+2022-05-21 16:09:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199001.html HTTP/1.1" 200 None
+2022-05-21 16:09:46 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199001.html
+2022-05-21 16:09:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199001.html HTTP/1.1" 200 None
+2022-05-21 16:09:46 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199002.html
+2022-05-21 16:09:46 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:46 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199002.html HTTP/1.1" 200 None
+2022-05-21 16:09:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199003.html
+2022-05-21 16:09:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199003.html HTTP/1.1" 200 None
+2022-05-21 16:09:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199004.html
+2022-05-21 16:09:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199004.html HTTP/1.1" 200 None
+2022-05-21 16:09:48 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199005.html
+2022-05-21 16:09:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199005.html HTTP/1.1" 200 None
+2022-05-21 16:09:48 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0690449056.html
+2022-05-21 16:09:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449056.html HTTP/1.1" 200 None
+2022-05-21 16:09:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449056.html
+2022-05-21 16:09:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449056.html HTTP/1.1" 200 None
+2022-05-21 16:09:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449001.html
+2022-05-21 16:09:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449001.html HTTP/1.1" 200 None
+2022-05-21 16:09:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449002.html
+2022-05-21 16:09:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449002.html HTTP/1.1" 200 None
+2022-05-21 16:09:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449006.html
+2022-05-21 16:09:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449006.html HTTP/1.1" 200 None
+2022-05-21 16:09:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449007.html
+2022-05-21 16:09:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449007.html HTTP/1.1" 200 None
+2022-05-21 16:09:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449009.html
+2022-05-21 16:09:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449009.html HTTP/1.1" 200 None
+2022-05-21 16:09:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449011.html
+2022-05-21 16:09:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449011.html HTTP/1.1" 200 None
+2022-05-21 16:09:52 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449013.html
+2022-05-21 16:09:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449013.html HTTP/1.1" 200 None
+2022-05-21 16:09:52 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449021.html
+2022-05-21 16:09:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449021.html HTTP/1.1" 200 None
+2022-05-21 16:09:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449022.html
+2022-05-21 16:09:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449022.html HTTP/1.1" 200 None
+2022-05-21 16:09:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449024.html
+2022-05-21 16:09:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449024.html HTTP/1.1" 200 None
+2022-05-21 16:09:54 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449028.html
+2022-05-21 16:09:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:54 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449028.html HTTP/1.1" 200 None
+2022-05-21 16:09:54 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449035.html
+2022-05-21 16:09:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:54 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449035.html HTTP/1.1" 200 None
+2022-05-21 16:09:54 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449036.html
+2022-05-21 16:09:54 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:54 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449036.html HTTP/1.1" 200 None
+2022-05-21 16:09:55 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449040.html
+2022-05-21 16:09:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:55 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449040.html HTTP/1.1" 200 None
+2022-05-21 16:09:55 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449043.html
+2022-05-21 16:09:55 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:55 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449043.html HTTP/1.1" 200 None
+2022-05-21 16:09:56 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449046.html
+2022-05-21 16:09:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:56 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449046.html HTTP/1.1" 200 None
+2022-05-21 16:09:56 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0690449051.html
+2022-05-21 16:09:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:56 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0690449051.html HTTP/1.1" 200 None
+2022-05-21 16:09:56 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0979945001.html
+2022-05-21 16:09:56 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945001.html HTTP/1.1" 200 None
+2022-05-21 16:09:57 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945001.html
+2022-05-21 16:09:57 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945001.html HTTP/1.1" 200 None
+2022-05-21 16:09:58 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945002.html
+2022-05-21 16:09:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:58 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945002.html HTTP/1.1" 200 None
+2022-05-21 16:09:58 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945003.html
+2022-05-21 16:09:58 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:58 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945003.html HTTP/1.1" 200 None
+2022-05-21 16:09:59 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945009.html
+2022-05-21 16:09:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:59 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945009.html HTTP/1.1" 200 None
+2022-05-21 16:09:59 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008549003.html
+2022-05-21 16:09:59 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:09:59 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549003.html HTTP/1.1" 200 None
+2022-05-21 16:10:00 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549003.html
+2022-05-21 16:10:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:00 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549003.html HTTP/1.1" 200 None
+2022-05-21 16:10:00 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549001.html
+2022-05-21 16:10:00 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:00 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549001.html HTTP/1.1" 200 None
+2022-05-21 16:10:01 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549002.html
+2022-05-21 16:10:01 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:01 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549002.html HTTP/1.1" 200 None
+2022-05-21 16:10:01 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549004.html
+2022-05-21 16:10:01 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:01 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549004.html HTTP/1.1" 200 None
+2022-05-21 16:10:01 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549006.html
+2022-05-21 16:10:01 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:01 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549006.html HTTP/1.1" 200 None
+2022-05-21 16:10:02 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549007.html
+2022-05-21 16:10:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:02 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549007.html HTTP/1.1" 200 None
+2022-05-21 16:10:02 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549008.html
+2022-05-21 16:10:02 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:02 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549008.html HTTP/1.1" 200 None
+2022-05-21 16:10:03 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0875105018.html
+2022-05-21 16:10:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:03 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105018.html HTTP/1.1" 200 None
+2022-05-21 16:10:03 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105018.html
+2022-05-21 16:10:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:03 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105018.html HTTP/1.1" 200 None
+2022-05-21 16:10:03 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105001.html
+2022-05-21 16:10:03 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:04 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105001.html HTTP/1.1" 200 None
+2022-05-21 16:10:05 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105002.html
+2022-05-21 16:10:05 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:05 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105002.html HTTP/1.1" 200 None
+2022-05-21 16:10:06 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105003.html
+2022-05-21 16:10:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:06 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105003.html HTTP/1.1" 200 None
+2022-05-21 16:10:06 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105009.html
+2022-05-21 16:10:06 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:08 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105009.html HTTP/1.1" 200 None
+2022-05-21 16:10:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105011.html
+2022-05-21 16:10:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:09 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105011.html HTTP/1.1" 200 None
+2022-05-21 16:10:09 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105015.html
+2022-05-21 16:10:09 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:10 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105015.html HTTP/1.1" 200 None
+2022-05-21 16:10:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105016.html
+2022-05-21 16:10:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:11 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105016.html HTTP/1.1" 200 None
+2022-05-21 16:10:11 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105017.html
+2022-05-21 16:10:11 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:12 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105017.html HTTP/1.1" 200 None
+2022-05-21 16:10:12 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105023.html
+2022-05-21 16:10:12 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:13 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105023.html HTTP/1.1" 200 None
+2022-05-21 16:10:13 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105024.html
+2022-05-21 16:10:13 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:13 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105024.html HTTP/1.1" 200 None
+2022-05-21 16:10:14 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0875105026.html
+2022-05-21 16:10:14 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:15 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0875105026.html HTTP/1.1" 200 None
+2022-05-21 16:10:16 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1071707002.html
+2022-05-21 16:10:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:16 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1071707002.html HTTP/1.1" 200 None
+2022-05-21 16:10:16 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1071707002.html
+2022-05-21 16:10:16 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:16 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1071707002.html HTTP/1.1" 200 None
+2022-05-21 16:10:17 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1071707001.html
+2022-05-21 16:10:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:17 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1071707001.html HTTP/1.1" 200 None
+2022-05-21 16:10:17 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1004199003.html
+2022-05-21 16:10:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:17 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199003.html HTTP/1.1" 200 None
+2022-05-21 16:10:17 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199003.html
+2022-05-21 16:10:17 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:17 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199003.html HTTP/1.1" 200 None
+2022-05-21 16:10:18 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199001.html
+2022-05-21 16:10:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:18 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199001.html HTTP/1.1" 200 None
+2022-05-21 16:10:18 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199002.html
+2022-05-21 16:10:18 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:18 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199002.html HTTP/1.1" 200 None
+2022-05-21 16:10:19 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199004.html
+2022-05-21 16:10:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:19 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199004.html HTTP/1.1" 200 None
+2022-05-21 16:10:19 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1004199005.html
+2022-05-21 16:10:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:19 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1004199005.html HTTP/1.1" 200 None
+2022-05-21 16:10:19 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1018704001.html
+2022-05-21 16:10:19 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:20 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1018704001.html HTTP/1.1" 200 None
+2022-05-21 16:10:21 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1018704001.html
+2022-05-21 16:10:21 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:21 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1018704001.html HTTP/1.1" 200 None
+2022-05-21 16:10:21 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1018704002.html
+2022-05-21 16:10:21 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:22 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1018704002.html HTTP/1.1" 200 None
+2022-05-21 16:10:22 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1018704003.html
+2022-05-21 16:10:22 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:23 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1018704003.html HTTP/1.1" 200 None
+2022-05-21 16:10:23 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008549001.html
+2022-05-21 16:10:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:23 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549001.html HTTP/1.1" 200 None
+2022-05-21 16:10:23 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549001.html
+2022-05-21 16:10:23 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:23 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549001.html HTTP/1.1" 200 None
+2022-05-21 16:10:24 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549002.html
+2022-05-21 16:10:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549002.html HTTP/1.1" 200 None
+2022-05-21 16:10:24 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549003.html
+2022-05-21 16:10:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549003.html HTTP/1.1" 200 None
+2022-05-21 16:10:24 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549004.html
+2022-05-21 16:10:24 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:24 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549004.html HTTP/1.1" 200 None
+2022-05-21 16:10:25 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549006.html
+2022-05-21 16:10:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:25 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549006.html HTTP/1.1" 200 None
+2022-05-21 16:10:25 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549007.html
+2022-05-21 16:10:25 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:25 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549007.html HTTP/1.1" 200 None
+2022-05-21 16:10:26 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549008.html
+2022-05-21 16:10:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:26 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549008.html HTTP/1.1" 200 None
+2022-05-21 16:10:26 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0427159006.html
+2022-05-21 16:10:26 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:27 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159006.html HTTP/1.1" 200 None
+2022-05-21 16:10:27 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159006.html
+2022-05-21 16:10:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:27 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159006.html HTTP/1.1" 200 None
+2022-05-21 16:10:27 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159001.html
+2022-05-21 16:10:27 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:28 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159001.html HTTP/1.1" 200 None
+2022-05-21 16:10:28 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159002.html
+2022-05-21 16:10:28 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:29 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159002.html HTTP/1.1" 200 None
+2022-05-21 16:10:30 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159003.html
+2022-05-21 16:10:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:30 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159003.html HTTP/1.1" 200 None
+2022-05-21 16:10:30 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159004.html
+2022-05-21 16:10:30 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:31 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159004.html HTTP/1.1" 200 None
+2022-05-21 16:10:32 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159005.html
+2022-05-21 16:10:32 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:33 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159005.html HTTP/1.1" 200 None
+2022-05-21 16:10:34 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159007.html
+2022-05-21 16:10:34 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:34 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159007.html HTTP/1.1" 200 None
+2022-05-21 16:10:35 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159008.html
+2022-05-21 16:10:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:35 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159008.html HTTP/1.1" 200 None
+2022-05-21 16:10:35 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159010.html
+2022-05-21 16:10:35 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:36 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159010.html HTTP/1.1" 200 None
+2022-05-21 16:10:36 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159011.html
+2022-05-21 16:10:36 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:37 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159011.html HTTP/1.1" 200 None
+2022-05-21 16:10:37 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159017.html
+2022-05-21 16:10:37 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:38 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159017.html HTTP/1.1" 200 None
+2022-05-21 16:10:38 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159022.html
+2022-05-21 16:10:38 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:39 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159022.html HTTP/1.1" 200 None
+2022-05-21 16:10:39 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159023.html
+2022-05-21 16:10:39 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:39 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159023.html HTTP/1.1" 200 None
+2022-05-21 16:10:40 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159025.html
+2022-05-21 16:10:40 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:40 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159025.html HTTP/1.1" 200 None
+2022-05-21 16:10:41 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0427159027.html
+2022-05-21 16:10:41 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:41 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0427159027.html HTTP/1.1" 200 None
+2022-05-21 16:10:42 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:10:42 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:10:42 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159005.html
+2022-05-21 16:10:42 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:42 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159005.html HTTP/1.1" 200 None
+2022-05-21 16:10:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159001.html
+2022-05-21 16:10:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159001.html HTTP/1.1" 200 None
+2022-05-21 16:10:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159002.html
+2022-05-21 16:10:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159002.html HTTP/1.1" 200 None
+2022-05-21 16:10:43 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159003.html
+2022-05-21 16:10:43 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:43 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159003.html HTTP/1.1" 200 None
+2022-05-21 16:10:44 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159004.html
+2022-05-21 16:10:44 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159004.html HTTP/1.1" 200 None
+2022-05-21 16:10:47 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159006.html
+2022-05-21 16:10:47 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:47 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159006.html HTTP/1.1" 200 None
+2022-05-21 16:10:48 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159007.html
+2022-05-21 16:10:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159007.html HTTP/1.1" 200 None
+2022-05-21 16:10:48 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0985159008.html
+2022-05-21 16:10:48 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:48 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0985159008.html HTTP/1.1" 200 None
+2022-05-21 16:10:49 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.1008549008.html
+2022-05-21 16:10:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549008.html HTTP/1.1" 200 None
+2022-05-21 16:10:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549008.html
+2022-05-21 16:10:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549008.html HTTP/1.1" 200 None
+2022-05-21 16:10:49 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549001.html
+2022-05-21 16:10:49 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:49 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549001.html HTTP/1.1" 200 None
+2022-05-21 16:10:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549002.html
+2022-05-21 16:10:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549002.html HTTP/1.1" 200 None
+2022-05-21 16:10:50 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549003.html
+2022-05-21 16:10:50 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:50 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549003.html HTTP/1.1" 200 None
+2022-05-21 16:10:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549004.html
+2022-05-21 16:10:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549004.html HTTP/1.1" 200 None
+2022-05-21 16:10:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549006.html
+2022-05-21 16:10:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549006.html HTTP/1.1" 200 None
+2022-05-21 16:10:51 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.1008549007.html
+2022-05-21 16:10:51 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:51 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.1008549007.html HTTP/1.1" 200 None
+2022-05-21 16:10:52 - DEBUG - webscraping_hm - Product: https://www2.hm.com/en_us/productpage.0979945003.html
+2022-05-21 16:10:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945003.html HTTP/1.1" 200 None
+2022-05-21 16:10:52 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945003.html
+2022-05-21 16:10:52 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:52 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945003.html HTTP/1.1" 200 None
+2022-05-21 16:10:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945001.html
+2022-05-21 16:10:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945001.html HTTP/1.1" 200 None
+2022-05-21 16:10:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945002.html
+2022-05-21 16:10:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:53 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945002.html HTTP/1.1" 200 None
+2022-05-21 16:10:53 - DEBUG - webscraping_hm - Color: https://www2.hm.com/en_us/productpage.0979945009.html
+2022-05-21 16:10:53 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www2.hm.com:443
+2022-05-21 16:10:57 - DEBUG - urllib3.connectionpool - https://www2.hm.com:443 "GET /en_us/productpage.0979945009.html HTTP/1.1" 200 None
+2022-05-21 16:10:57 - INFO - webscraping_hm - data collection by composition done
+2022-05-21 16:10:57 - INFO - webscraping_hm - data product cleaned done
+2022-05-21 16:10:57 - INFO - webscraping_hm - data insert done

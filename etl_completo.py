@@ -15,7 +15,8 @@ from sqlalchemy import create_engine
 
 # DATA COLLETION 
 
-def data_collection(url,headers):
+def data_collection(headers,url):
+    #data_collection(headers,url)
 
     #REQUEST TO URL
     page = requests.get( url, headers=headers )
@@ -114,7 +115,7 @@ def data_collection_composition_by_product(data,headers):
     
         for j in range(len(df_color)):
             url= 'https://www2.hm.com/en_us/productpage.'+ df_color.loc[j,'Art. No.'] +'.html'
-            loggind.debug( 'Color: %s',url ) 
+            logger.debug( 'Color: %s',url ) 
             
         
             page = requests.get( url, headers=headers )
@@ -360,7 +361,7 @@ def data_insert(df_data):
     data_insert = df_data.copy(deep=True)
 
     #create database connection
-    create_engine('sqlite:///database_hm_sqlite',echo=False)
+    conn = create_engine('sqlite:///database_hm.sqlite',echo=False)
 
     #insert data
     data_insert.to_sql('vitrine',con=conn, if_exists='append', index=False)
@@ -386,8 +387,8 @@ if __name__ == '__main__':
     
     #link princial do modelo de roupa que pŕeciso
     url= 'https://www2.hm.com/en_us/men/products/jeans.html'
-    
-    headers = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/50.0.2661.102 Safari/537.36 OPR/37.0.2178.54'}
+    headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"}
+    #headers = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/50.0.2661.102 Safari/537.36 OPR/37.0.2178.54'}
     
     
     #data collection
@@ -405,5 +406,5 @@ if __name__ == '__main__':
     
     #data insertion 
     data_insert(data_product_cleaned)
-    logger.info('data product cleaned done')
+    logger.info('data insert done')
 
